@@ -38,19 +38,21 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![] https://recordit.co/hHarlFUrn4
+![https://recordit.co/hHarlFUrn4] 
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 https://color.adobe.com/create/color-wheel, 
 https://www.sourcecodester.com/tutorials/javascript/13531/javascript-randomize-html-table-row.html,
 https://techwelkin.com/randomize-html-list-display-html-list-items-randomly
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 A challenge I faced while creating this submission was creating ways to incorporate creativity and originality into my project without dismantling the basic structure. Since the project already had a structure, it was challenging to think about how I could make my project stand out from the original game. The task of the project was clear; to create a light and sound memory game. At first I thought about how I could apply my previous HTML skills to make the game more effective and attractive to the user. Applying these skills, I changed the colors of the background, text, and buttons using a color wheel being that adding bright colors to my game will initially catch the user’s attention. While applying the color wheel, it was important to have a scheme to limit distractions from the game’s overall purpose. Other than colors, I wanted the game to be more challenging for the user. Using this I altered the game’s cue hold and pause times so that it would be more difficult to remember the fast moving button. After a few times of trying this myself, it ended up even being a struggle for me. With this strategy, the user will probably get stumped and want to interact with the game more in order to win.
 
 
