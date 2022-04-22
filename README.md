@@ -12,18 +12,18 @@ Link to project: (insert your link here, should start with https://glitch.com...
 
 The following **required** functionality is complete:
 
-* [ X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [X] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
 * [X] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [X ] Game buttons each light up and play a sound when clicked. 
-* [X ] Computer plays back sequence of clues including sound and visual cue for each button
-* [X ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [X] Game buttons each light up and play a sound when clicked. 
+* [X] Computer plays back sequence of clues including sound and visual cue for each button
+* [X] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
 * [X] User wins the game after guessing a complete pattern
 * [X] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
 * [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [X ] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [X] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [X] More than 4 functional game buttons
 * [ ] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
@@ -57,6 +57,7 @@ A challenge I faced while creating this submission was creating ways to incorpor
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 The following questions I have about web development are :
+
 Can HTML allow web developers to have more creative control than CSS and javascript?
 Can front end coding also serve as a way to research user interaction with websites?
 How can I fully combine design and web development as a technical job ?
@@ -65,13 +66,14 @@ What are some stable jobs within web development?
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had a few more hours to work on this project I would try to find a more efficient way to randomize the start of the game. Applying my python skills, I tried to make the game random instead of having the same order every time at the start. I tried first with using Import Random on var pattern and also making it an empty list. Unfortunately this did not work, leading me to do more research with front end coding. Since the global variables are in javascript, I researched how to implement the random start. After research I found a shuffle function, yet it still did not work. Also if i had more time I would have implemented the active background of the buttons to be images. I feel like this would’ve allowed me to showcase more of my creativity and made my project stand out.
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.dropbox.com/s/eu0byedwnxz4dxr/video4581250611.mp4?dl=0)
 
 
 ## License
