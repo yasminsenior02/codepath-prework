@@ -4,7 +4,7 @@
 
 Submitted by: **YASMIN SENIOR**
 
-Time spent: 7 hours spent in total
+Time spent: 5.20 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/separated-mysterious-crop
 ## Required Functionality
@@ -38,8 +38,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![https://recordit.co/hHarlFUrn4] 
-![](gif2-link-here)
+![](https://recordit.co/hHarlFUrn4)
+![](https://recordit.co/NHGzI1mzgO)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
