@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-![](https://recordit.co/hHarlFUrn4)
+![](https://s3.amazonaws.com/img0.recordit.co/hHarlFUrn4.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1650666581&Signature=bwo9rAjcpTPF%2BupTKZPJxVaxs20%3D)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
