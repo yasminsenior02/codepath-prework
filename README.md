@@ -6,8 +6,7 @@ Submitted by: **YASMIN SENIOR**
 
 Time spent: 7 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
-
+Link to project: https://glitch.com/edit/#!/separated-mysterious-crop
 ## Required Functionality
 
 The following **required** functionality is complete:
@@ -56,12 +55,17 @@ A challenge I faced while creating this submission was creating ways to incorpor
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 The following questions I have about web development are :
 
 Can HTML allow web developers to have more creative control than CSS and javascript?
+
 Can front end coding also serve as a way to research user interaction with websites?
+
 How can I fully combine design and web development as a technical job ?
+
 Are there other languages other than HTML, javascript, and CSS that are beneficial to web development?
+
 What are some stable jobs within web development?
 
 
